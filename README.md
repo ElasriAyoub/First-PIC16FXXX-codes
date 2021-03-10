@@ -8,13 +8,13 @@ Collection of Assembly codes we used for the INTEL8086.
 <br />
 <p align="center">
   <a href="https://github.com/ElasriAyoub">
-    <img src="/MICRO-PROCESSEUR-PAGE-DE-GARDE.jpg" alt="Logo" width="2480" height="3508">
+    <img src="/MICRO-CONTROLLEUR-PAGE-DE-GARDE.jpg" alt="Logo" width="2480" height="3508">
   </a>
 
-  <h3 align="center">INTEL 8086</h3>
+  <h3 align="center">PIC16F877A & PIC16F887</h3>
 
   <p align="center">
-   Using EMU8086 and Assembly!
+   Using MikroC!
     <br />
     <a href="https://github.com/ElasriAyoub"><strong>Check all my projects</strong></a>
     <br />
@@ -31,5 +31,5 @@ Project Link: [https://https://github.com/ElasriAyoub/ECG-Signal-Processing-LabV
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/elasri-ayoub/
-[product-screenshot]: /MICRO-PROCESSEUR-PAGE-DE-GARDE.jpg
+[product-screenshot]: /MICRO-CONTROLLEUR-PAGE-DE-GARDE.jpg
 
